@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q2palindrome",
+            "request": "launch",
+            "mainClass": "Q2palindrome"
+        }
+    ]
+}
